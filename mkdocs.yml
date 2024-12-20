@@ -1,0 +1,4 @@
+site_name: EmberGlow
+site_url: https://mydomain.org/emberglow
+theme:
+  name: material
