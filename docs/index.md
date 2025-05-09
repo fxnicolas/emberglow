@@ -1,6 +1,6 @@
 # Welcome to EmberGlow
 
-EmberGlow is a new project. 
+Documentation site template for a future project.
 
 ## Commands
 
